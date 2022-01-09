@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sijeesh Miziha</h1>
 <h3 align="center">Full-Stack Developer from India</h3>
-<h2 align="left">"When I first got into technology I didn't really understand what open source was., Once I started writing software, I realized how important this would be.., if you realy like my code stuffs keep supporting me feel free to follow" - Sijeesh Miziha </h2>
+<h2 align="left">When I first got into technology I didn't really understand what open source was., Once I started writing software, I realized how important this would be.., if you realy like my code stuffs keep supporting me feel free to follow</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sijeeshmiziha&label=Profile%20views&color=0e75b6&style=flat" alt="sijeeshmiziha" /> </p>
 
-- 💬 Ask me about **javascript,react**
+- 💬 Ask me about **javascript,react,node**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
